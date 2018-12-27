@@ -17,8 +17,12 @@ body  {
 
 }
 #about-div  {
-  
+
 }
 #contact-div  {
 
+}
+#video  {
+  width: 560px;
+  height: 315px;
 }
