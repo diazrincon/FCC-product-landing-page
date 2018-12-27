@@ -14,7 +14,7 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 - [x] I can see an image within the ```header``` element with a corresponding ```id="header-img"```. A company logo would make a good image here.
 - [x] Within the ```#header``` element I can see a ```nav``` element with a corresponding ```id="nav-bar"```.
 - [x] I can see at least three clickable elements inside the ```nav``` element, each with the class ```nav-link```.
-- [ ] When I click a ```.nav-link``` button in the ```nav``` element, I am taken to the corresponding section of the landing page.
+- [x] When I click a ```.nav-link``` button in the ```nav``` element, I am taken to the corresponding section of the landing page.
 - [ ] I can watch an embedded product video with ```id="video"```.
 - [ ] My landing page has a ```form``` element with a corresponding ```id="form"```.
 - [ ] Within the form, there is an ```input``` field with ```id="email"``` where I can enter an email address.
