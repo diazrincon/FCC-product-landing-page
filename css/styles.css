@@ -2,10 +2,13 @@ body  {
 
 }
 #header {
-
+  position: fixed;
+  top: 0;
+  background-color: white;
+  align-items: center;
 }
 #header-img {
-
+  max-height: 50px;
 }
 #nav-navbar {
 

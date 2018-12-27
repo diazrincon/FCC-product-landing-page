@@ -22,7 +22,7 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 - [x] The ```#email``` input field uses HTML5 validation to confirm that the entered text is an email address.
 - [ ] Within the form, there is a submit ```input``` with a corresponding ```id="submit"```.
 - [x] When I click the ```#submit``` element, the email is submitted to a static page (use [this](https://www.freecodecamp.com/email-submit) mock URL) that confirms the email address was entered and that it posted successfully.
-- [ ] The navbar should always be at the top of the viewport.
+- [x] The navbar should always be at the top of the viewport.
 - [ ] My product landing page should have at least one media query.
 - [ ] My product landing page should utilize CSS flexbox at least once.
 
