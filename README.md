@@ -10,7 +10,7 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 
 ----
 ## User stories
-- [ ] My product landing page should have a ```header``` element with a corresponding ```id="header".```
+- [x] My product landing page should have a ```header``` element with a corresponding ```id="header".```
 - [ ] I can see an image within the ```header``` element with a corresponding ```id="header-img"```. A company logo would make a good image here.
 - [ ] Within the ```#header``` element I can see a ```nav``` element with a corresponding ```id="nav-bar"```.
 - [ ] I can see at least three clickable elements inside the ```nav``` element, each with the class ```nav-link```.
