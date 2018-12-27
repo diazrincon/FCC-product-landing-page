@@ -18,7 +18,7 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 - [x] I can watch an embedded product video with ```id="video"```.
 - [x] My landing page has a ```form``` element with a corresponding ```id="form"```.
 - [x] Within the form, there is an ```input``` field with ```id="email"``` where I can enter an email address.
-- [ ] The ```#email``` input field should have placeholder text to let the user know what the field is for.
+- [x] The ```#email``` input field should have placeholder text to let the user know what the field is for.
 - [ ] The ```#email``` input field uses HTML5 validation to confirm that the entered text is an email address.
 - [ ] Within the form, there is a submit ```input``` with a corresponding ```id="submit"```.
 - [ ] When I click the ```#submit``` element, the email is submitted to a static page (use [this](https://www.freecodecamp.com/email-submit) mock URL) that confirms the email address was entered and that it posted successfully.
