@@ -17,7 +17,7 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 - [x] When I click a ```.nav-link``` button in the ```nav``` element, I am taken to the corresponding section of the landing page.
 - [x] I can watch an embedded product video with ```id="video"```.
 - [x] My landing page has a ```form``` element with a corresponding ```id="form"```.
-- [ ] Within the form, there is an ```input``` field with ```id="email"``` where I can enter an email address.
+- [x] Within the form, there is an ```input``` field with ```id="email"``` where I can enter an email address.
 - [ ] The ```#email``` input field should have placeholder text to let the user know what the field is for.
 - [ ] The ```#email``` input field uses HTML5 validation to confirm that the entered text is an email address.
 - [ ] Within the form, there is a submit ```input``` with a corresponding ```id="submit"```.
